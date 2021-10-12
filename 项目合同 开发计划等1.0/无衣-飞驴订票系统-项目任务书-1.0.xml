@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><?mso-infoPathSolution solutionVersion="1.0.0.4" PIVersion="1.0.0.0" href="file:///D:\教学\软件项目实践\软件项目实践\文档模板\《任务书》模板.xsn" name="urn:schemas-microsoft-com:office:infopath:-kQV-Qo:" language="zh-cn" productVersion="15.0.0" ?><?mso-application progid="InfoPath.Document"?><任务书 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003">
+	<首部 项目名称="“飞驴”网上旅游自助订票系统" 项目标识="订票系统" version="1.0">
+		<状态与版本信息>
+			<文件状态></文件状态>
+			<文件标识></文件标识>
+			<当前版本></当前版本>
+			<作者>
+				<姓名>王纬业</姓名>
+				<学号>2018011168</学号>
+				<团队>无衣组</团队>
+			</作者>
+			<完成日期></完成日期>
+			<版本更新信息></版本更新信息>
+		</状态与版本信息>
+		<引言>
+			<使用人员></使用人员>
+			<编写目的></编写目的>
+			<背景></背景>
+		</引言>
+	</首部>
+	<下达人>无衣组</下达人>
+	<下达时间>2021-09-28</下达时间>
+	<项目经理>王纬业</项目经理>
+	<项目计划提交期限>2021-11-30</项目计划提交期限>
+	<送达人>无衣组</送达人>
+	<项目目标>
+		<目标条目>建立旅游订票系统，以及相关数据库</目标条目>
+	</项目目标>
+	<项目范围>
+		<项目性质>合同软件项目</项目性质>
+		<项目组成><div xmlns="http://www.w3.org/1999/xhtml">2.2.1 <font face="宋体">用户个人前台：</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font face="宋体">      注册新用户，浏览景点，发表留言，订票</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">2.2.2<font face="宋体">管理者后台：</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font face="宋体">     管理员注册系统，管理员登陆系统，用户管理系统，订票管理系统，景点信息管理系统</font></div></项目组成>
+		<项目要求><div xmlns="http://www.w3.org/1999/xhtml">2.3.1 时间要求</div>
+<div xmlns="http://www.w3.org/1999/xhtml">查询响应时间：小于2秒</div>
+<div xmlns="http://www.w3.org/1999/xhtml">更新处理时间：小于3秒</div></项目要求>
+		<项目范围特殊说明>项目相关任何代码和文档，属公司机密，不可外泄</项目范围特殊说明>
+	</项目范围>
+	<项目输入>
+		<输入条目>无</输入条目>
+	</项目输入>
+	<项目用户>有意向来北京旅游的游客</项目用户>
+	<与其他项目关系>无</与其他项目关系>
+	<项目限制>
+		<完成时间>2021-11-30</完成时间>
+		<资金>50万</资金>
+		<资源><div xmlns="http://www.w3.org/1999/xhtml">
+<table tabIndex="-1" class="msoUcTable" style="BORDER-TOP-STYLE: none; WORD-WRAP: break-word; BORDER-LEFT-STYLE: none; WIDTH: 516px; BORDER-COLLAPSE: collapse; TABLE-LAYOUT: fixed; BORDER-BOTTOM-STYLE: none; BORDER-RIGHT-STYLE: none" borderColor="#000000" border="1">
+<colgroup>
+<col style="WIDTH: 97px"/>
+<col style="WIDTH: 328px"/>
+<col style="WIDTH: 91px"/></colgroup>
+<tbody>
+<tr>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">角色</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">职责</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">人员</font></div></font></td></tr>
+<tr>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">项目经理</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">负责项目的计划、资源调配、进度控制及相应的文档编制</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">王纬业</font></div></font></td></tr>
+<tr>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">需求分析员</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">负责用户需求获取和系统分析及相应的文档编制</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">刘洋，王夏</font></div></font></td></tr>
+<tr>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">系统设计员</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">负责系统的概要设计和详细设计及相应的文档编制</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">胡志奎</font></div></font></td></tr>
+<tr>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">软件工程师</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">负责系统的实现及相应的文档编制</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">胡志奎，李奇峰，陈明翰</font></div></font></td></tr>
+<tr>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">测试工程师</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">负责系统的集成测试和系统测试及相应的文档编制，编制相应的测试用例等</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">李世龙</font></div></font></td></tr>
+<tr>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">质量保证员</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">根据本项目的特征，确定需要检查的主要过程域和主要工作成果，并估计检查时间和人员，制订质量保证计划。参与技术评审</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">王纬业</font></div></font></td></tr>
+<tr>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">配置管理员</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">负责软件系统开发过程中的配置管理计划的制订、配置项的定义、问题跟踪、版本控制等及相应的文档编制</font></div></font></td>
+<td vAlign="top"><font size="2" face="宋体">
+<div><font size="2" face="宋体">李奇峰</font></div></font></td></tr></tbody></table></div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div style="FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 0.75pt; MARGIN-TOP: 0cm; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 16.5pt" align="left" xmlns="http://www.w3.org/1999/xhtml"><span style="FONT-SIZE: 10pt; BORDER-TOP: gainsboro 1pt solid; BORDER-RIGHT: gainsboro 1pt solid; BORDER-BOTTOM: gainsboro 1pt solid; BORDER-LEFT: gainsboro 1pt solid"><font face="宋体"><font style="BACKGROUND-COLOR: white">有固定工作场所，每人都配有计算机（台式机/笔记本）一台</font></font></span></div>
+<div style="FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 0.75pt; MARGIN-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 16.5pt" align="left" xmlns="http://www.w3.org/1999/xhtml"><span style="FONT-SIZE: 10pt; BORDER-TOP: gainsboro 1pt solid; BORDER-RIGHT: gainsboro 1pt solid; BORDER-BOTTOM: gainsboro 1pt solid; BORDER-LEFT: gainsboro 1pt solid"><font face="宋体"><font style="BACKGROUND-COLOR: white">财力资源：</font></font></span></div>
+<div style="FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 16.5pt" align="left" xmlns="http://www.w3.org/1999/xhtml"><span style="FONT-SIZE: 10pt; BORDER-TOP: gainsboro 1pt solid; BORDER-RIGHT: gainsboro 1pt solid; BORDER-BOTTOM: gainsboro 1pt solid; BORDER-LEFT: gainsboro 1pt solid"><font style="BACKGROUND-COLOR: white" face="宋体">一、定额流动资产：五十万元</font><br/><font style="BACKGROUND-COLOR: white" face="宋体">二、定额流动资产平均余额： 十万元</font><br/><font style="BACKGROUND-COLOR: white" face="宋体">三、固定资产（原值/净值）：四十万元</font><br/><font style="BACKGROUND-COLOR: white" face="宋体">四、经营资金</font><br/><font style="BACKGROUND-COLOR: white" face="宋体"> 1.</font><font style="BACKGROUND-COLOR: white" face="宋体">固定资金： 五十万元</font><br/><font style="BACKGROUND-COLOR: white" face="宋体"> 2.</font><font style="BACKGROUND-COLOR: white" face="宋体">流动资金： 六十万元</font><br/><font style="BACKGROUND-COLOR: white" face="宋体"> 3.</font><font style="BACKGROUND-COLOR: white" face="宋体">用于周转的自有资金： 十万元</font><br/><font style="BACKGROUND-COLOR: white" face="宋体">五、货币资金： 一十万元</font><br/><font style="BACKGROUND-COLOR: white" face="宋体">六、应收及预付款： 二十万元</font><br/><font style="BACKGROUND-COLOR: white" face="宋体">七、预收及预付款： 七十万元</font><br/><font style="BACKGROUND-COLOR: white" face="宋体">八、实际完成年产值： 一百万元</font><br/><font style="BACKGROUND-COLOR: white" face="宋体">九、实现利润总额： 五十万元</font><br/><font style="BACKGROUND-COLOR: white" face="宋体">十、反映企业管理水平指标</font><br/><font style="BACKGROUND-COLOR: white" face="宋体"> 1.</font><font style="BACKGROUND-COLOR: white" face="宋体">资金利用率：</font><font face="宋体"><font style="BACKGROUND-COLOR: white"> 70%<br/> 2.流动资金周转率： 3次</font></font><br/><font style="BACKGROUND-COLOR: white" face="宋体"> 3.</font><font face="宋体"><font style="BACKGROUND-COLOR: white">企业偿还能力：良好</font></font></span></div></资源>
+		<实现限制><div xmlns="http://www.w3.org/1999/xhtml">MVC结构</div>
+<div xmlns="http://www.w3.org/1999/xhtml">开发平台：windows，java，mysql，eclipse等</div></实现限制>
+	</项目限制>
+	<其他></其他>
+</任务书>

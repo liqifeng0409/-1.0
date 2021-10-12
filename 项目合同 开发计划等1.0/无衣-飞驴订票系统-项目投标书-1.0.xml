@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="UTF-8"?><?mso-infoPathSolution solutionVersion="1.0.0.11" PIVersion="1.0.0.0" href="file:///D:\教学\软件项目实践\软件项目实践\文档模板\《投标书》模板.xsn" name="urn:schemas-microsoft-com:office:infopath:-E7V-Qo:" language="zh-cn" productVersion="15.0.0" ?><?mso-application progid="InfoPath.Document"?><投标书 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003">
+	<首部 项目名称="“飞驴”旅游自助系统" 项目标识="订票系统" version="1.0">
+		<状态与版本信息>
+			<文件状态></文件状态>
+			<文件标识></文件标识>
+			<当前版本></当前版本>
+			<作者>
+				<姓名>常远</姓名>
+				<学号>2018011396</学号>
+				<团队>无衣组</团队>
+			</作者>
+			<完成日期></完成日期>
+			<版本更新信息></版本更新信息>
+		</状态与版本信息>
+		<引言>
+			<使用人员></使用人员>
+			<编写目的></编写目的>
+			<背景></背景>
+		</引言>
+	</首部>
+	<文件编号>FL20210928</文件编号>
+	<投标单位>
+		<单位>
+			<名称>无衣组有限公司</名称>
+			<签章>无衣组有限公司</签章>
+		</单位>
+		<负责人>
+			<姓名>王纬业</姓名>
+			<职务>项目经理</职务>
+			<签章>王纬业</签章>
+		</负责人>
+		<联系方式>
+			<联系人>王纬业</联系人>
+			<电话>15509970090</电话>
+			<传真>010-61356441</传真>
+		</联系方式>
+	</投标单位>
+	<投标日期>2021-09-28</投标日期>
+	<承包方式><div xmlns="http://www.w3.org/1999/xhtml">本公司接取《飞驴》项目，施工方式为总包（本公司负责一切项目包括所有子项目）。</div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">工程结算方式为总标价一次包死。会款的期限为2021年9月30日前，数额拟定为15万元。</font></div></承包方式>
+	<投标工程标价>
+		<总标价><div xmlns="http://www.w3.org/1999/xhtml">总标价：15万元。</div></总标价>
+		<单项标价>资料购买5000元 专利申请费1000元  雇员培训费1500元 差旅费500元<font size="2" face="宋体" xmlns="http://www.w3.org/1999/xhtml"></font></单项标价>
+	</投标工程标价>
+	<工程周期>
+		<开工>2021-09-28</开工>
+		<竣工>2021-11-30</竣工>
+		<总工期>66天</总工期>
+	</工程周期>
+	<工程质量><div xmlns="http://www.w3.org/1999/xhtml">本公司承诺，工程质量达标，完成招标人所需要的所有需求。并且，在项目开发过程中的人为造成的风险<font size="2" face="宋体">和潜在风险由本公司自行承担。</font></div></工程质量>
+	<反要约条件><div xmlns="http://www.w3.org/1999/xhtml">工程款分两部分（预付款与剩余款项）付齐，其中预付款应与软件开始开发前三天到款，剩余款项待软件<font size="2" face="宋体">验收后付齐。若招标单位未按时付款造成工期逾期，带来的后果与损失由招标单位承担。</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">若因不可抗力因素（包括但不限于地震、火山爆发等自然灾害以及战争等人为因素）造成的损失与风险，</font><font size="2" face="宋体">“无衣组”公司不为此承担责任。</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">招标单位必须保证所提供的资料完整、真实、合法。招标单位不得以任意形式泄露本产品的源代码，否则</font><font size="2" face="宋体">无衣组公司保留法律上追究责任的权利。</font></div></反要约条件>
+	<招标单位意见><div xmlns="http://www.w3.org/1999/xhtml">同意“无衣组”公司的投标。</div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体"></font> </div></招标单位意见>
+	<公证部门意见></公证部门意见>
+	<附件>
+		<分项报价明细表><div xmlns="http://www.w3.org/1999/xhtml">
+<table tabIndex="-1" class="msoUcTable" style="WORD-WRAP: break-word; BORDER-TOP: medium none; BORDER-RIGHT: medium none; WIDTH: 480px; BORDER-COLLAPSE: collapse; TABLE-LAYOUT: fixed; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none" borderColor="buttontext" border="1">
+<colgroup>
+<col style="WIDTH: 80px"/>
+<col style="WIDTH: 108px"/>
+<col style="WIDTH: 52px"/>
+<col style="WIDTH: 80px"/>
+<col style="WIDTH: 80px"/>
+<col style="WIDTH: 80px"/></colgroup>
+<tbody vAlign="top">
+<tr>
+<td style="BORDER-TOP: #000000 1pt; BORDER-RIGHT: #000000 1pt; BORDER-BOTTOM: #000000 1pt; BORDER-LEFT: #000000 1pt">
+<div><font size="2" face="宋体">序号</font></div></td>
+<td style="BORDER-TOP: #000000 1pt; BORDER-RIGHT: #000000 1pt; BORDER-BOTTOM: #000000 1pt; BORDER-LEFT: #000000 1pt">
+<div><font size="2" face="宋体">名称</font></div></td>
+<td style="BORDER-TOP: #000000 1pt; BORDER-RIGHT: #000000 1pt; BORDER-BOTTOM: #000000 1pt; BORDER-LEFT: #000000 1pt">
+<div><font size="2" face="宋体">说明</font></div></td>
+<td style="BORDER-TOP: #000000 1pt; BORDER-RIGHT: #000000 1pt; BORDER-BOTTOM: #000000 1pt; BORDER-LEFT: #000000 1pt">
+<div><font size="2" face="宋体">金额</font></div></td>
+<td style="BORDER-TOP: #000000 1pt; BORDER-RIGHT: #000000 1pt; BORDER-BOTTOM: #000000 1pt; BORDER-LEFT: #000000 1pt">
+<div><font size="2" face="宋体">总计</font></div></td>
+<td style="BORDER-TOP: #000000 1pt; BORDER-RIGHT: #000000 1pt; BORDER-BOTTOM: #000000 1pt; BORDER-LEFT: #000000 1pt">
+<div><font size="2" face="宋体">备注</font></div></td></tr>
+<tr>
+<td style="BORDER-TOP: #000000 1pt; BORDER-RIGHT: #000000 1pt; BORDER-BOTTOM: #000000 1pt; BORDER-LEFT: #000000 1pt">
+<div><font size="2" face="宋体">1</font></div></td>
+<td style="BORDER-TOP: #000000 1pt; BORDER-RIGHT: #000000 1pt; BORDER-BOTTOM: #000000 1pt; BORDER-LEFT: #000000 1pt">
+<div><font size="2" face="宋体">软件开发</font></div></td>
+<td style="BORDER-TOP: #000000 1pt; BORDER-RIGHT: #000000 1pt; BORDER-BOTTOM: #000000 1pt; BORDER-LEFT: #000000 1pt">
+<div><font size="2" face="宋体"></font> </div></td>
+<td style="BORDER-TOP: #000000 1pt; BORDER-RIGHT: #000000 1pt; BORDER-BOTTOM: #000000 1pt; BORDER-LEFT: #000000 1pt">
+<div><font size="2" face="宋体">10万元</font></div></td>
+<td style="BORDER-TOP: #000000 1pt; BORDER-RIGHT: #000000 1pt; BORDER-BOTTOM: #000000 1pt; BORDER-LEFT: #000000 1pt">
+<div><font size="2" face="宋体">10万元</font></div></td>
+<td style="BORDER-TOP: #000000 1pt; BORDER-RIGHT: #000000 1pt; BORDER-BOTTOM: #000000 1pt; BORDER-LEFT: #000000 1pt">
+<div><font size="2" face="宋体"></font> </div></td></tr>
+<tr style="MIN-HEIGHT: 21px">
+<td style="BORDER-TOP: #000000 1pt; BORDER-RIGHT: #000000 1pt; BORDER-BOTTOM: #000000 1pt; BORDER-LEFT: #000000 1pt">
+<div><font size="2" face="宋体">2</font></div></td>
+<td style="BORDER-TOP: #000000 1pt; BORDER-RIGHT: #000000 1pt; BORDER-BOTTOM: #000000 1pt; BORDER-LEFT: #000000 1pt">
+<div><font size="2" face="宋体">系统软件购置</font></div></td>
+<td style="BORDER-TOP: #000000 1pt; BORDER-RIGHT: #000000 1pt; BORDER-BOTTOM: #000000 1pt; BORDER-LEFT: #000000 1pt">
+<div><font size="2" face="宋体"></font> </div></td>
+<td style="BORDER-TOP: #000000 1pt; BORDER-RIGHT: #000000 1pt; BORDER-BOTTOM: #000000 1pt; BORDER-LEFT: #000000 1pt">
+<div><font size="2" face="宋体">2万元</font></div></td>
+<td style="BORDER-TOP: #000000 1pt; BORDER-RIGHT: #000000 1pt; BORDER-BOTTOM: #000000 1pt; BORDER-LEFT: #000000 1pt">
+<div><font size="2" face="宋体">2万元</font></div></td>
+<td style="BORDER-TOP: #000000 1pt; BORDER-RIGHT: #000000 1pt; BORDER-BOTTOM: #000000 1pt; BORDER-LEFT: #000000 1pt">
+<div><font size="2" face="宋体"></font> </div></td></tr>
+<tr>
+<td style="BORDER-TOP: #000000 1pt; BORDER-RIGHT: #000000 1pt; BORDER-BOTTOM: #000000 1pt; BORDER-LEFT: #000000 1pt">
+<div><font size="2" face="宋体">3</font></div></td>
+<td style="BORDER-TOP: #000000 1pt; BORDER-RIGHT: #000000 1pt; BORDER-BOTTOM: #000000 1pt; BORDER-LEFT: #000000 1pt">
+<div><font size="2" face="宋体">人员培训</font></div></td>
+<td style="BORDER-TOP: #000000 1pt; BORDER-RIGHT: #000000 1pt; BORDER-BOTTOM: #000000 1pt; BORDER-LEFT: #000000 1pt">
+<div><font size="2" face="宋体"></font> </div></td>
+<td style="BORDER-TOP: #000000 1pt; BORDER-RIGHT: #000000 1pt; BORDER-BOTTOM: #000000 1pt; BORDER-LEFT: #000000 1pt">
+<div><font size="2" face="宋体">1万元</font></div></td>
+<td style="BORDER-TOP: #000000 1pt; BORDER-RIGHT: #000000 1pt; BORDER-BOTTOM: #000000 1pt; BORDER-LEFT: #000000 1pt">
+<div><font size="2" face="宋体">1万元</font></div></td>
+<td style="BORDER-TOP: #000000 1pt; BORDER-RIGHT: #000000 1pt; BORDER-BOTTOM: #000000 1pt; BORDER-LEFT: #000000 1pt">
+<div><font size="2" face="宋体"></font> </div></td></tr>
+<tr>
+<td style="BORDER-TOP: #000000 1pt; BORDER-RIGHT: #000000 1pt; BORDER-BOTTOM: #000000 1pt; BORDER-LEFT: #000000 1pt">
+<div><font size="2" face="宋体">4</font></div></td>
+<td style="BORDER-TOP: #000000 1pt; BORDER-RIGHT: #000000 1pt; BORDER-BOTTOM: #000000 1pt; BORDER-LEFT: #000000 1pt">
+<div><font size="2" face="宋体">硬件设施费用</font></div></td>
+<td style="BORDER-TOP: #000000 1pt; BORDER-RIGHT: #000000 1pt; BORDER-BOTTOM: #000000 1pt; BORDER-LEFT: #000000 1pt">
+<div><font size="2" face="宋体"></font> </div></td>
+<td style="BORDER-TOP: #000000 1pt; BORDER-RIGHT: #000000 1pt; BORDER-BOTTOM: #000000 1pt; BORDER-LEFT: #000000 1pt">
+<div><font size="2" face="宋体">2万元</font></div></td>
+<td style="BORDER-TOP: #000000 1pt; BORDER-RIGHT: #000000 1pt; BORDER-BOTTOM: #000000 1pt; BORDER-LEFT: #000000 1pt">
+<div><font size="2" face="宋体">2万元</font></div></td>
+<td style="BORDER-TOP: #000000 1pt; BORDER-RIGHT: #000000 1pt; BORDER-BOTTOM: #000000 1pt; BORDER-LEFT: #000000 1pt">
+<div><font size="2" face="宋体"></font> </div></td></tr></tbody></table></div>合计：15万元</分项报价明细表>
+		<材料设备报价明细表></材料设备报价明细表>
+		<法定代表人授权书><div xmlns="http://www.w3.org/1999/xhtml">本授权书声明:注册于北京市海淀区学院路34号的大盛资产评估公司的张三代表本公司授权科技有限公司的王纬业为本公司的合法代理人,就旅游自助系统项目的投标,以本公<font face="宋体">司名义处理一切与之有关的事务。</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font face="宋体">本授权书于2021 年 9月 28日签字生效, 特此声明。</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font face="宋体">竞标公司名称:(盖章)</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font face="宋体">法定代表人签章:张三</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font face="宋体">公司地址:北京市海淀区学院路34号</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font face="宋体">联系电话:13001180707</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font face="宋体">传真号码:010－98742364</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font face="宋体">被授权人签章:王纬业</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font face="宋体">被授权人手机:</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font face="宋体">被授权人e-mail: </font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font face="宋体"></font> </div></法定代表人授权书>
+		<资质证明文件>投标商资格简表 
+<div xmlns="http://www.w3.org/1999/xhtml">
+<table tabIndex="-1" class="msoUcTable" style="WORD-WRAP: break-word; BORDER-TOP: medium none; BORDER-RIGHT: medium none; WIDTH: 480px; BORDER-COLLAPSE: collapse; TABLE-LAYOUT: fixed; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none" borderColor="buttontext" border="1">
+<colgroup>
+<col style="WIDTH: 110px"/>
+<col style="WIDTH: 370px"/></colgroup>
+<tbody vAlign="top">
+<tr style="MIN-HEIGHT: 22px">
+<td>
+<div><font size="2" face="宋体">企业名称</font></div></td>
+<td>
+<div><font size="2" face="宋体">无衣组有限公司</font></div></td></tr>
+<tr style="MIN-HEIGHT: 21px">
+<td>
+<div><font size="2" face="宋体">企业性质</font></div></td>
+<td>
+<div><font size="2" face="宋体">民营企业</font></div></td></tr>
+<tr style="MIN-HEIGHT: 21px">
+<td>
+<div><font size="2" face="宋体">地址</font></div></td>
+<td style="BORDER-BOTTOM-COLOR: ">
+<div><font size="2" face="宋体">北京市北四环中路35号</font></div></td></tr>
+<tr style="MIN-HEIGHT: 21px">
+<td style="BORDER-RIGHT-COLOR: ">
+<div><font size="2" face="宋体">法人代表</font></div></td>
+<td>
+<div><font size="2" face="宋体">王纬业</font></div></td></tr>
+<tr style="MIN-HEIGHT: 21px">
+<td>
+<div><font size="2" face="宋体">邮编</font></div></td>
+<td style="BORDER-TOP-COLOR: ">
+<div><font size="2" face="宋体">100085</font></div></td></tr>
+<tr style="MIN-HEIGHT: 21px">
+<td>
+<div><font size="2" face="宋体">电话</font></div></td>
+<td>
+<div><font size="2" face="宋体">15509970090</font></div></td></tr>
+<tr style="MIN-HEIGHT: 21px">
+<td>
+<div><font size="2" face="宋体">传真</font></div></td>
+<td>
+<div><font size="2" face="宋体">010-61356441</font></div></td></tr>
+<tr style="MIN-HEIGHT: 22px">
+<td>
+<div><font size="2" face="宋体">总产值</font></div></td>
+<td>
+<div>五千亿</div></td></tr>
+<tr style="MIN-HEIGHT: 22px">
+<td style="BORDER-TOP-COLOR: ">
+<div><font size="2" face="宋体">流动资产</font></div></td>
+<td style="BORDER-TOP-COLOR: ">
+<div>八千万</div></td></tr>
+<tr style="MIN-HEIGHT: 22px">
+<td style="BORDER-TOP-COLOR: ">
+<div><font size="2" face="宋体">固定资产</font></div></td>
+<td style="BORDER-TOP-COLOR: ">
+<div>四亿二千万</div></td></tr>
+<tr style="MIN-HEIGHT: 22px">
+<td style="BORDER-TOP-COLOR: ">
+<div><font size="2" face="宋体">长期债务</font></div></td>
+<td style="BORDER-TOP-COLOR: ">
+<div>无</div></td></tr>
+<tr style="MIN-HEIGHT: 22px">
+<td style="BORDER-TOP-COLOR: ">
+<div><font size="2" face="宋体">流动债务<strong></strong></font></div></td>
+<td style="BORDER-TOP-COLOR: ">
+<div>无</div></td></tr>
+<tr style="MIN-HEIGHT: 22px">
+<td style="BORDER-TOP-COLOR: ">
+<div><font size="2" face="宋体">高级技经人员</font></div></td>
+<td style="BORDER-TOP-COLOR: ">
+<div>八</div></td></tr>
+<tr style="MIN-HEIGHT: 22px">
+<td style="BORDER-TOP-COLOR: ">
+<div><font size="2" face="宋体">研究设计人员</font></div></td>
+<td style="BORDER-TOP-COLOR: ">
+<div>一</div></td></tr></tbody></table></div></资质证明文件>
+		<保证金保函><div xmlns="http://www.w3.org/1999/xhtml">投标保证金保函</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font face="宋体">致：吴雨森</font><font face="宋体">（招标人）</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font face="宋体"></font> </div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font face="宋体">本保函是我行 北京银行 （银行全称）为 </font><font face="宋体">无衣组有限公司 （投标人全称）参加贵处组织的</font>旅游自助系统项<font size="2" face="宋体">目 LD202109280011 （招标编号）招标的投标所作的担保。</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体"></font> </div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">1、 保证金额（大写） </font><font size="2" face="宋体">壹佰萬 </font><font size="2" face="宋体">元（投标总金额的10%）。</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体"></font> </div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">2、在担保期内，我行在收到贵方通知，说明下列事实中的任何一点时，即按要求无条件地向贵方支付保</font><font size="2" face="宋体">证金：</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体"></font> </div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">a、投标人在开标后撤销投标；</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">b、投标人在收到中标通知书后，未能按中标通知书规定的时间、地点与买方签订中标经济合同；</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">c、投标人在中标后未按招标文件要求支付中标服务费；</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体"></font> </div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">3、本保函自开标之日起生效，直到投标文件有效期满后30天，或贵方与投标人书面约定的延长期后30天</font><font size="2" face="宋体">内有效。</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体"></font> </div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">4、若没有本保函第2项所列情况发生，本保函有效期满后自动失效。</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体"></font> </div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">银行全称： 北京银行           </font><font size="2" face="宋体">开具人：李四 </font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体"></font> </div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">（公章）   </font><font size="2" face="宋体">北京银行           </font><font size="2" face="宋体">（签字）李四</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体"></font> </div></保证金保函>
+		<投标人情况表><div xmlns="http://www.w3.org/1999/xhtml">投标人情况声明</div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">1、名称及概况：</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">（1）</font><font size="2" face="宋体">投标人名称：</font><font size="2" face="宋体">无衣组有限公司</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">（2）</font><font size="2" face="宋体">总部地址：北京市北四环中路35号</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">     电传/传真/电话号码： 010-61523456 </font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">（3）</font><font size="2" face="宋体">成立和/或注册日期：</font><font size="2" face="宋体">2021-9-1</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">（4）</font><font size="2" face="宋体">实收资本：</font><font size="2" face="宋体">五千亿</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">（5）</font><font size="2" face="宋体">近期资产负债表（到 </font><font size="2" face="宋体">2021 年 9 月 28 日止）</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体"></font> </div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">①固定资产：</font><font size="2" face="宋体">四亿二千万</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">②流动资产：</font><font size="2" face="宋体">八千万</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">③长期负债：</font><font size="2" face="宋体">无</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">④流动负债：</font><font size="2" face="宋体">无</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">⑤净值：</font><font size="2" face="宋体">五千亿</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">（6）</font><font size="2" face="宋体">主要负责人姓名：（可选填）</font><font size="2" face="宋体">王纬业</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体"></font> </div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">2、本投标人生产投标货物的经验（包括年限、项目业主、额定能力、商业运营的起始日期等）：</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">3、近三年本公司主要国内、外主要客户的名称地址，项目名称：</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">（1）</font><font size="2" face="宋体">出口销售</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">（名称和地址）   四星  韩国（项目名称）  手机订货系统     </font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">（名称和地址）   </font><font size="2" face="宋体">谷唱  </font><font size="2" face="宋体">美国</font><font size="2" face="宋体">（项目名称）  </font><font size="2" face="宋体">人脸识别系统</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">（2）</font><font size="2" face="宋体">国内销售</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">（名称和地址）   蒙猪有限责任公司   中国（项目名称）  养猪户管理系统</font><font size="2" face="宋体"></font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">（名称和地址）   </font><font size="2" face="宋体">嘟嘟打车   </font><font size="2" face="宋体">中国</font><font size="2" face="宋体">（项目名称）   </font><font size="2" face="宋体">打车系统</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体"></font> </div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">5、近三年的年营业额</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml">
+<table tabIndex="-1" class="msoUcTable" style="WORD-WRAP: break-word; BORDER-TOP: medium none; BORDER-RIGHT: medium none; WIDTH: 480px; BORDER-COLLAPSE: collapse; TABLE-LAYOUT: fixed; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none" borderColor="buttontext" border="1">
+<colgroup>
+<col style="WIDTH: 120px"/>
+<col style="WIDTH: 120px"/>
+<col style="WIDTH: 120px"/>
+<col style="WIDTH: 120px"/></colgroup>
+<tbody vAlign="top">
+<tr style="MIN-HEIGHT: 22px">
+<td style="BORDER-TOP: #000000 1pt; BORDER-RIGHT: #000000 1pt; BORDER-BOTTOM: #000000 1pt; BORDER-LEFT: #000000 1pt">
+<div><font size="2" face="宋体">年份</font></div></td>
+<td style="BORDER-TOP: #000000 1pt; BORDER-RIGHT: #000000 1pt; BORDER-BOTTOM: #000000 1pt; BORDER-LEFT: #000000 1pt">
+<div><font size="2" face="宋体">国内</font></div></td>
+<td style="BORDER-TOP: #000000 1pt; BORDER-RIGHT: #000000 1pt; BORDER-BOTTOM: #000000 1pt; BORDER-LEFT: #000000 1pt">
+<div><font size="2" face="宋体">出口</font></div></td>
+<td style="BORDER-TOP: #000000 1pt; BORDER-RIGHT: #000000 1pt; BORDER-BOTTOM: #000000 1pt; BORDER-LEFT: #000000 1pt">
+<div><font size="2" face="宋体">总额</font></div></td></tr>
+<tr>
+<td style="BORDER-TOP: #000000 1pt; BORDER-RIGHT: #000000 1pt; BORDER-BOTTOM: #000000 1pt; BORDER-LEFT: #000000 1pt">
+<div><font size="2" face="宋体">2017</font></div></td>
+<td style="BORDER-TOP: #000000 1pt; BORDER-RIGHT: #000000 1pt; BORDER-BOTTOM: #000000 1pt; BORDER-LEFT: #000000 1pt">
+<div><font size="2" face="宋体">五十亿</font></div></td>
+<td style="BORDER-TOP: #000000 1pt; BORDER-RIGHT: #000000 1pt; BORDER-BOTTOM: #000000 1pt; BORDER-LEFT: #000000 1pt">
+<div><font size="2" face="宋体">五十亿</font></div></td>
+<td style="BORDER-TOP: #000000 1pt; BORDER-RIGHT: #000000 1pt; BORDER-BOTTOM: #000000 1pt; BORDER-LEFT: #000000 1pt">
+<div><font size="2" face="宋体">一百亿</font></div></td></tr>
+<tr style="MIN-HEIGHT: 21px">
+<td style="BORDER-TOP: #000000 1pt; BORDER-RIGHT: #000000 1pt; BORDER-BOTTOM: #000000 1pt; BORDER-LEFT: #000000 1pt">
+<div><font size="2" face="宋体">2018</font></div></td>
+<td style="BORDER-TOP: #000000 1pt; BORDER-RIGHT: #000000 1pt; BORDER-BOTTOM: #000000 1pt; BORDER-LEFT: #000000 1pt">
+<div><font size="2" face="宋体">一百亿</font></div></td>
+<td style="BORDER-TOP: #000000 1pt; BORDER-RIGHT: #000000 1pt; BORDER-BOTTOM: #000000 1pt; BORDER-LEFT: #000000 1pt">
+<div><font size="2" face="宋体">两百亿</font></div></td>
+<td style="BORDER-TOP: #000000 1pt; BORDER-RIGHT: #000000 1pt; BORDER-BOTTOM: #000000 1pt; BORDER-LEFT: #000000 1pt">
+<div><font size="2" face="宋体">三百亿</font></div></td></tr>
+<tr>
+<td style="BORDER-TOP: #000000 1pt; BORDER-RIGHT: #000000 1pt; BORDER-BOTTOM: #000000 1pt; BORDER-LEFT: #000000 1pt">
+<div><font size="2" face="宋体">2019</font></div></td>
+<td style="BORDER-TOP: #000000 1pt; BORDER-RIGHT: #000000 1pt; BORDER-BOTTOM: #000000 1pt; BORDER-LEFT: #000000 1pt">
+<div><font size="2" face="宋体">一百五十亿</font></div></td>
+<td style="BORDER-TOP: #000000 1pt; BORDER-RIGHT: #000000 1pt; BORDER-BOTTOM: #000000 1pt; BORDER-LEFT: #000000 1pt">
+<div><font size="2" face="宋体">两百亿</font></div></td>
+<td style="BORDER-TOP: #000000 1pt; BORDER-RIGHT: #000000 1pt; BORDER-BOTTOM: #000000 1pt; BORDER-LEFT: #000000 1pt">
+<div><font size="2" face="宋体">三百五十亿</font></div></td></tr></tbody></table></div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">兹证明上述声明是真实、正确的、并提供了全部能提供的资料和数据，我们同意遵照贵方要求出示有关证</font><font size="2" face="宋体">明文件。</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">投标人名称（公章）：</font>无衣组<font size="2" face="宋体">有限公司</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">法人授权代表（签字）：张三</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体"></font> </div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">日期： 2021-09-28</font></div></投标人情况表>
+		<投标人财务状况表><div xmlns="http://www.w3.org/1999/xhtml">
+<div style="FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 0.75pt; MARGIN-TOP: 0cm; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 16.5pt" align="left"><span style="FONT-SIZE: 10pt; BORDER-TOP: gainsboro 1pt solid; BORDER-RIGHT: gainsboro 1pt solid; BORDER-BOTTOM: gainsboro 1pt solid; BORDER-LEFT: gainsboro 1pt solid"><font face="宋体"><font style="BACKGROUND-COLOR: white">有固定工作场所，每人都配有计算机（台式机/笔记本）一台</font></font></span></div>
+<div style="FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 0.75pt; MARGIN-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 16.5pt" align="left"><span style="FONT-SIZE: 10pt; BORDER-TOP: gainsboro 1pt solid; BORDER-RIGHT: gainsboro 1pt solid; BORDER-BOTTOM: gainsboro 1pt solid; BORDER-LEFT: gainsboro 1pt solid"><font face="宋体"><font style="BACKGROUND-COLOR: white">财力资源：</font></font></span></div>
+<div style="FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 16.5pt" align="left"><span style="FONT-SIZE: 10pt; BORDER-TOP: gainsboro 1pt solid; BORDER-RIGHT: gainsboro 1pt solid; BORDER-BOTTOM: gainsboro 1pt solid; BORDER-LEFT: gainsboro 1pt solid"><font style="BACKGROUND-COLOR: white" face="宋体">一、定额流动资产：五十万元</font><br/><font style="BACKGROUND-COLOR: white" face="宋体">二、定额流动资产平均余额： 十万元</font><br/><font style="BACKGROUND-COLOR: white" face="宋体">三、固定资产（原值/净值）：四十万元</font><br/><font style="BACKGROUND-COLOR: white" face="宋体">四、经营资金</font><br/><font style="BACKGROUND-COLOR: white" face="宋体"> 1.</font><font style="BACKGROUND-COLOR: white" face="宋体">固定资金： 五十万元</font><br/><font style="BACKGROUND-COLOR: white" face="宋体"> 2.</font><font style="BACKGROUND-COLOR: white" face="宋体">流动资金： 六十万元</font><br/><font style="BACKGROUND-COLOR: white" face="宋体"> 3.</font><font style="BACKGROUND-COLOR: white" face="宋体">用于周转的自有资金： 十万元</font><br/><font style="BACKGROUND-COLOR: white" face="宋体">五、货币资金： 一十万元</font><br/><font style="BACKGROUND-COLOR: white" face="宋体">六、应收及预付款： 二十万元</font><br/><font style="BACKGROUND-COLOR: white" face="宋体">七、预收及预付款： 七十万元</font><br/><font style="BACKGROUND-COLOR: white" face="宋体">八、实际完成年产值： 一百万元</font><br/><font style="BACKGROUND-COLOR: white" face="宋体">九、实现利润总额： 五十万元</font><br/><font style="BACKGROUND-COLOR: white" face="宋体">十、反映企业管理水平指标</font><br/><font style="BACKGROUND-COLOR: white" face="宋体"> 1.</font><font style="BACKGROUND-COLOR: white" face="宋体">资金利用率：</font><font face="宋体"><font style="BACKGROUND-COLOR: white"> 70%<br/> 2.流动资金周转率： 3次</font></font><br/><font style="BACKGROUND-COLOR: white" face="宋体"> 3.</font><font face="宋体"><font style="BACKGROUND-COLOR: white">企业偿还能力：良好</font></font></span></div></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体"></font> </div></投标人财务状况表>
+		<投标人专业技术人员一览表><div xmlns="http://www.w3.org/1999/xhtml">
+<table tabIndex="-1" class="msoUcTable" style="WORD-WRAP: break-word; BORDER-TOP: medium none; BORDER-RIGHT: medium none; WIDTH: 592px; BORDER-COLLAPSE: collapse; TABLE-LAYOUT: fixed; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none" borderColor="buttontext" border="1">
+<colgroup>
+<col style="WIDTH: 48px"/>
+<col style="WIDTH: 56px"/>
+<col style="WIDTH: 40px"/>
+<col style="WIDTH: 94px"/>
+<col style="WIDTH: 60px"/>
+<col style="WIDTH: 76px"/>
+<col style="WIDTH: 66px"/>
+<col style="WIDTH: 59px"/>
+<col style="WIDTH: 45px"/>
+<col style="WIDTH: 48px"/></colgroup>
+<tbody vAlign="top">
+<tr style="MIN-HEIGHT: 5px">
+<td>
+<div><font size="2" face="宋体">序号</font></div></td>
+<td style="BORDER-BOTTOM-COLOR: ">
+<div><font size="2" face="宋体">姓名</font></div></td>
+<td>
+<div><font size="2" face="宋体">性别</font></div></td>
+<td>
+<div><font size="2" face="宋体">现任职务</font></div></td>
+<td>
+<div><font size="2" face="宋体">持何种资格证件</font></div></td>
+<td>
+<div><font size="2" face="宋体">发证时间</font></div></td>
+<td>
+<div><font size="2" face="宋体">技术等级</font></div></td>
+<td>
+<div><font size="2" face="宋体">本专业工作总年限</font></div></td>
+<td>
+<div><font size="2" face="宋体">外语能力</font></div></td>
+<td>
+<div><font size="2" face="宋体">备注</font></div></td></tr>
+<tr style="MIN-HEIGHT: 21px">
+<td style="BORDER-RIGHT-COLOR: ">
+<div><font size="2" face="宋体">1</font></div></td>
+<td>
+<div><font size="2" face="宋体">王纬业</font></div></td>
+<td style="BORDER-LEFT-COLOR: ">
+<div><font size="2" face="宋体">男</font></div></td>
+<td>
+<div><font size="2" face="宋体">项目经理</font></div></td>
+<td>
+<div><font size="2" face="宋体">高级工程师</font></div></td>
+<td>
+<div><font size="2" face="宋体">2021</font></div></td>
+<td>
+<div><font size="2" face="宋体">3</font></div></td>
+<td>
+<div><font size="2" face="宋体">5</font></div></td>
+<td>
+<div><font size="2" face="宋体">6级</font></div></td>
+<td>
+<div><font size="2" face="宋体"></font> </div></td></tr>
+<tr style="MIN-HEIGHT: 38px">
+<td>
+<div><font size="2" face="宋体">2</font></div></td>
+<td style="BORDER-TOP-COLOR: ; BORDER-BOTTOM-COLOR: ">
+<div><font size="2" face="宋体">胡志奎</font></div></td>
+<td>
+<div><font size="2" face="宋体">男</font></div></td>
+<td>
+<div><font size="2" face="宋体">开发组组长</font></div></td>
+<td>
+<div><font size="2" face="宋体">高级工程师</font></div></td>
+<td>
+<div><font size="2" face="宋体">2021</font></div></td>
+<td>
+<div><font size="2" face="宋体">3</font></div></td>
+<td>
+<div><font size="2" face="宋体">5</font></div></td>
+<td>
+<div><font size="2" face="宋体">6级</font></div></td>
+<td>
+<div><font size="2" face="宋体"></font> </div></td></tr>
+<tr style="MIN-HEIGHT: 21px">
+<td style="BORDER-RIGHT-COLOR: ">
+<div><font size="2" face="宋体">3</font></div></td>
+<td>
+<div><font size="2" face="宋体">李世龙</font></div></td>
+<td style="BORDER-LEFT-COLOR: ">
+<div><font size="2" face="宋体">男</font></div></td>
+<td>
+<div><font size="2" face="宋体">测试组组长</font></div></td>
+<td>
+<div><font size="2" face="宋体">高级工程师</font></div></td>
+<td>
+<div><font size="2" face="宋体">2021</font></div></td>
+<td>
+<div><font size="2" face="宋体">3</font></div></td>
+<td>
+<div><font size="2" face="宋体">5</font></div></td>
+<td>
+<div><font size="2" face="宋体">6级</font></div></td>
+<td>
+<div><font size="2" face="宋体"></font> </div></td></tr>
+<tr style="MIN-HEIGHT: 38px">
+<td>
+<div><font size="2" face="宋体">4</font></div></td>
+<td style="BORDER-TOP-COLOR: ">
+<div><font size="2" face="宋体">刘洋</font></div></td>
+<td>
+<div><font size="2" face="宋体">男</font></div></td>
+<td>
+<div><font size="2" face="宋体">用户组组长</font></div></td>
+<td>
+<div><font size="2" face="宋体">高级工程师</font></div></td>
+<td>
+<div><font size="2" face="宋体">2021</font></div></td>
+<td>
+<div><font size="2" face="宋体">3</font></div></td>
+<td>
+<div><font size="2" face="宋体">5</font></div></td>
+<td>
+<div><font size="2" face="宋体">6级</font></div></td>
+<td>
+<div><font size="2" face="宋体"></font> </div></td></tr>
+<tr style="MIN-HEIGHT: 21px">
+<td>
+<div><font size="2" face="宋体">5</font></div></td>
+<td>
+<div><font size="2" face="宋体">陈明翰</font></div></td>
+<td>
+<div><font size="2" face="宋体">男</font></div></td>
+<td>
+<div><font size="2" face="宋体">程序员</font></div></td>
+<td>
+<div><font size="2" face="宋体">高级工程师</font></div></td>
+<td>
+<div><font size="2" face="宋体">2021</font></div></td>
+<td>
+<div><font size="2" face="宋体">3</font></div></td>
+<td>
+<div><font size="2" face="宋体">5</font></div></td>
+<td>
+<div><font size="2" face="宋体">6级</font></div></td>
+<td>
+<div><font size="2" face="宋体"></font> </div></td></tr>
+<tr>
+<td>
+<div><font size="2" face="宋体">6</font></div></td>
+<td>
+<div><font size="2" face="宋体">李奇峰</font></div></td>
+<td>
+<div><font size="2" face="宋体">男</font></div></td>
+<td>
+<div><font size="2" face="宋体">程序员</font></div></td>
+<td>
+<div><font size="2" face="宋体">高级工程师</font></div></td>
+<td>
+<div><font size="2" face="宋体">2021</font></div></td>
+<td>
+<div><font size="2" face="宋体">3</font></div></td>
+<td>
+<div><font size="2" face="宋体">5</font></div></td>
+<td>
+<div><font size="2" face="宋体">6级</font></div></td>
+<td>
+<div><font size="2" face="宋体"></font> </div></td></tr>
+<tr>
+<td>
+<div><font size="2" face="宋体">7</font></div></td>
+<td>
+<div><font size="2" face="宋体">王夏</font></div></td>
+<td>
+<div><font size="2" face="宋体">女</font></div></td>
+<td>
+<div><font size="2" face="宋体">需求评审、验收测试</font></div></td>
+<td>
+<div><font size="2" face="宋体">高级工程师</font></div></td>
+<td>
+<div><font size="2" face="宋体">2021</font></div></td>
+<td>
+<div><font size="2" face="宋体">3</font></div></td>
+<td>
+<div><font size="2" face="宋体">5</font></div></td>
+<td>
+<div><font size="2" face="宋体">6级</font></div></td>
+<td>
+<div><font size="2" face="宋体"></font> </div></td></tr>
+<tr>
+<td style="BORDER-TOP-COLOR: ">
+<div><font size="2" face="宋体">8</font></div></td>
+<td style="BORDER-TOP-COLOR: ">
+<div><font size="2" face="宋体">常远</font></div></td>
+<td style="BORDER-TOP-COLOR: ">
+<div><font size="2" face="宋体">男</font></div></td>
+<td style="BORDER-TOP-COLOR: ">
+<div><font size="2" face="宋体">测试员</font></div></td>
+<td style="BORDER-TOP-COLOR: ">
+<div><font size="2" face="宋体">高级工程师</font></div></td>
+<td style="BORDER-TOP-COLOR: ">
+<div><font size="2" face="宋体">2021</font></div></td>
+<td style="BORDER-TOP-COLOR: ">
+<div><font size="2" face="宋体">3</font></div></td>
+<td style="BORDER-TOP-COLOR: ">
+<div><font size="2" face="宋体">5</font></div></td>
+<td style="BORDER-TOP-COLOR: ">
+<div><font size="2" face="宋体">6级</font></div></td>
+<td style="BORDER-TOP-COLOR: ">
+<div><font size="2" face="宋体"></font> </div></td></tr>
+<tr>
+<td style="BORDER-TOP-COLOR: ">
+<div><font size="2" face="宋体">9</font></div></td>
+<td style="BORDER-TOP-COLOR: ">
+<div><font size="2" face="宋体">吴雨森</font></div></td>
+<td style="BORDER-TOP-COLOR: ">
+<div><font size="2" face="宋体">男</font></div></td>
+<td style="BORDER-TOP-COLOR: ">
+<div><font size="2" face="宋体">测试员</font></div></td>
+<td style="BORDER-TOP-COLOR: ">
+<div><font size="2" face="宋体">高级工程师</font></div></td>
+<td style="BORDER-TOP-COLOR: ">
+<div><font size="2" face="宋体">2021</font></div></td>
+<td style="BORDER-TOP-COLOR: ">
+<div><font size="2" face="宋体">3</font></div></td>
+<td style="BORDER-TOP-COLOR: ">
+<div><font size="2" face="宋体">5</font></div></td>
+<td style="BORDER-TOP-COLOR: ">
+<div><font size="2" face="宋体">6级</font></div></td>
+<td style="BORDER-TOP-COLOR: ">
+<div><font size="2" face="宋体"></font> </div></td></tr></tbody></table></div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">从业人员及技术资格须附任职资格证书或技术工人等级证书的复印件，以及获得证书的工作人员为本单位<font size="2" face="宋体">员工的证明材料</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">投标人名称(盖章)：无衣组有限公司</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">授权代表签字盖章：北京银行</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体"></font> </div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">日</font><font size="2" face="宋体">期： 2021 年 09 月 28 日</font></div></投标人专业技术人员一览表>
+		<其他><div xmlns="http://www.w3.org/1999/xhtml">“飞驴”旅游自助系统开发项目</div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font face="宋体">1.系统目标与功能 </font><font face="宋体">我公司对项目的理解，设计的基本思想请参考《项目建议书》</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">2.进度计划</div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font face="宋体">2.1 需求调查的设计 （2周）</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font face="宋体">2.2 系统开发（3周）</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font face="宋体">2.3 调试运行（2周）</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font face="宋体">2.4 系统验收 (1周)</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font face="宋体">3.技术方案</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font face="宋体">3.1 操作系统 Windows 10 </font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font face="宋体">3.2 开发工具 Eclipse IDE，</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font face="宋体">3.3 应用软件</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font face="宋体">3.3.1 测试软件 </font><font face="宋体"><font size="2" face="宋体">Ranorex Studio</font></font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font face="宋体">3.3.2 配置管理 SVN1.4 </font></div>
+<div xmlns="http://www.w3.org/1999/xhtml">3.3.3 文档工具 Microsoft InfoPath，Microsoft Office</div>
+<div xmlns="http://www.w3.org/1999/xhtml">3.3.4 项目管理 Microsoft Project</div></其他>
+	</附件>
+</投标书>

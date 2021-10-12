@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="UTF-8"?><?mso-infoPathSolution solutionVersion="1.0.0.15" PIVersion="1.0.0.0" href="file:///C:\temp\udisk\软件项目实践\文档模板\《招标书》模板.xsn" name="urn:schemas-microsoft-com:office:infopath:-K7V-Qo:" language="zh-cn" productVersion="15.0.0" ?><?mso-application progid="InfoPath.Document"?><招标书 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003">
+	<首部 项目名称="“飞驴”旅游自助系统" 项目标识="订票系统" version="1.0">
+		<状态与版本信息>
+			<文件状态>草稿</文件状态>
+			<文件标识></文件标识>
+			<当前版本>1.0</当前版本>
+			<作者>
+				<姓名>吴雨森</姓名>
+				<学号>2018011405</学号>
+				<团队>无衣组</团队>
+			</作者>
+			<完成日期>2021-09-28</完成日期>
+			<版本更新信息>具体招标事项</版本更新信息>
+		</状态与版本信息>
+		<引言>
+			<使用人员></使用人员>
+			<编写目的></编写目的>
+			<背景><div xmlns="http://www.w3.org/1999/xhtml">现在社会平均收入有所提高，民众对于自助旅游的需求逐渐增加。所以本软件秉持着惠民的原则，带来更多的方便给用户，我们一直是致力<font size="2" face="宋体">于做对于用户使用更加方便的软件。</font></div></背景>
+			<定义与缩写>
+				<术语></术语>
+				<解释></解释>
+			</定义与缩写>
+			<参考资料>
+				<条目>无</条目>
+			</参考资料>
+		</引言>
+	</首部>
+	<文件编号>FL20210928</文件编号>
+	<招标邀请>
+		<说明><div xmlns="http://www.w3.org/1999/xhtml">无衣组股份有限公司，就“飞驴”旅游自助系统进行公开招标，邀请有意参加本次招标活动的投标人参与本</div>
+<div xmlns="http://www.w3.org/1999/xhtml">项目。请有关具有同类软件及系统开发经验的系统集成商到北<font face="宋体">京市无衣组股份有限公司信息工程招投标</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font face="宋体">中心购买标书并参加投标</font></div></说明>
+		<招标内容>“飞驴”旅游自助系统</招标内容>
+		<标书售价>1500万</标书售价>
+		<投标截止时间>2021-09-30</投标截止时间>
+		<开标时间>2021-09-28</开标时间>
+		<招标单位>
+			<联系人></联系人>
+			<电话></电话>
+			<传真></传真>
+			<单位></单位>
+			<日期></日期>
+		</招标单位>
+	</招标邀请>
+	<投标须知>
+		<说明><div xmlns="http://www.w3.org/1999/xhtml">投标商必须认真阅读以下内容，以免造成投标失败。</div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体"></font> </div></说明>
+		<招标方式><div xmlns="http://www.w3.org/1999/xhtml">1 第一次报价和评标：</div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">2 投标商根据本招标文件的要求编写投标文件，并进行第一次报价；</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">3 招标方对投标文件进行综合评价，选出最优的三家投标商；</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml">4 第一轮评分成绩带入第二轮，占第二轮成绩的50%；</div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">5 第二次报价和评标定标</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">6 投标商根据进一步的细化的澄清要求编写响应书，并进行第二次报价；</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">7 招标方再次组织综合评标，选出最优的一家投标商.</font></div></招标方式>
+		<投标商要求><div xmlns="http://www.w3.org/1999/xhtml">1 * 要具有软件开发经营范围的企业法人，注册资金不低于300万元；</div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">2 * 具有开发相应的办公OA系统的经验，有已开发过的办公自动化软件（该软件</font><font size="2" face="宋体">必须是在近两年内开发并且在至少两个用户单位（80用户数以上）成功实施）；</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">3 具有开发C/S模式系统和B/S 模式系统的经验；</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">4 具有网络数据库管理系统的开发经验；</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">5 具有广域网、局域网系统的开发经验；</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">6 投标商必须由法定代表人或其委托代理人（须有法定代表人签署的授权书）参</font><font size="2" face="宋体">加投标、开标仪式，在评标过程中随时接受评委就投标文件内容提出的质询，并予以解</font><font size="2" face="宋体">答。</font></div></投标商要求>
+		<投标文件要求><div xmlns="http://www.w3.org/1999/xhtml">投标文件及格式：</div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">1，应包含以下部分</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">1.1 报价部分</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">1.1.1投标书格式（见附录A1）</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">1.1.2分项报价表（见附录A2）</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">1.1.3法定代表人授权书格式（见附录A3）</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">2方案说明部分</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">各系统的设计方案</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">分项报价单（包括硬件配置详细报价，但不计入本次投标总价和评分）；</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">项目实施建议和工程进度计划；</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">质量控制方案；</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">系统交付后期技术服务计划、维护及承诺；</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">培训计划。</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">3，资质证明文件（见附录A4）</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">4，保证金保函格式（见附录A5）</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">5，投标人情况表格式（见附录A6）</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">6，投标人财务状况表（见附录A7）</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">投标人专业技术人员（见附录A8）</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">7. 关于开标</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">7.1 招标方按招标公告（或投标邀请）中规定的时间和地点公开开标。</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">7.2 投标截止时如前来投标的投标商少于三家，招标方有权宣布此次招标无效，</font><font size="2" face="宋体">重新招标。</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">7.3 开标时，投标商须由法定代表人或其委托代理人（具有法定代表人签署的授</font><font size="2" face="宋体">权书）参加，并签到证明其出席开标会议，否则视为该投标商自动弃权。</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">7.4 开标时，先检查投标文件密封情况，确认无误后拆封唱标。</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">7.5 唱标时，唱每个投标商投标书中的总报价，并显示在投影屏幕上。</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">7.6 如开标后发现废标致使有效投标少于三家，招标方有权宣布此次招标无效，</font><font size="2" face="宋体">重新招标。</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">8. 关于评标</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">8.1 评标是招标工作的重要环节，评标工作在评委会内独立进行。</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">8.2 在投标、开标期间，投标人不得向评委询问情况，不得进行旨在影响评标结</font><font size="2" face="宋体">果的活动。</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">8.3 评标结束并得到委托方确认后，即向中标商发出中标通知书，并向落标方发</font><font size="2" face="宋体">出落标通知书。</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">8.4 评委会不向落标方解释落标原因，不退还投标文件。</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">9. 关于定标</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">9.1 评标委员会结合报价部分、方案说明部分和投标资格证明部分的评估结果进</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">行综合价格评估，选出候选中标商报XXX市政府采购中心确定。</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">9.2 向中标商发出中标通知书，并在网站上公开发布。</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">9.3 向落选投标方发出落选通知书。</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml">10. 关于废标和招标失败</div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">10.1 有下列情况之一出现的投标书，将做废标处理:</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">10.1.1 投标书未密封。</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">10.1.2 无单位和法定代表人或法定代表人委托的代理人的印鉴或签字。</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">10.1.3 未按规定格式填写,内容不全或字迹模糊,辨认不清。</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">10.1.4 投标书逾期送达。</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">10.1.5 投标书未对招标文件作出完全的响应导致投标无效。</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">10.1.6 投标报价超过最高限价。</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">10.2 下列情况之一出现，将视为招标失败，招标方将重新招标：</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">10.2.1 第一轮投标截止时投标方少于三家。</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">10.2.2 评标时发现所有投标书均为废标。</font></div></投标文件要求>
+		<名词解释>
+			<招标方></招标方>
+			<投标方></投标方>
+		</名词解释>
+	</投标须知>
+	<招标项目要求>
+		<项目系统现状目标与功能要求><div xmlns="http://www.w3.org/1999/xhtml">现在本公司有服务器。</div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">要求有后台数据库系统和操作系统，管理系统。</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">对于客户个人隐私进行保密设计，保证不会泄露客户信息。</font></div></项目系统现状目标与功能要求>
+		<招标内容及要求><div xmlns="http://www.w3.org/1999/xhtml">1，建立旅游自助系统，包括旅游局维护景点信息，旅游者查询景点信息，软件用户均可以将查询结果打印为报表保存等</div>
+<div xmlns="http://www.w3.org/1999/xhtml">2，完成相应的基础数据处理，建库<font face="宋体">等工作</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font face="宋体">3，系统平台及开发工具：基于Windows10的网络操作系统、数据库管理系统。其他所需要的系统软件平台，开</font><font face="宋体">发工具不作限制。</font></div></招标内容及要求>
+		<评价标准及要求><div xmlns="http://www.w3.org/1999/xhtml">1 对投标文件的审查和确定</div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">2 评标委员会</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">3投标文件的澄清</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">4公司审核</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">5 评价标准</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">5.1类似项目的经验（20%）</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">5.1.1项目获得省、市级颁发的奖项（以证书或证明文件为准）的；</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">5.1.2承担过相应项目成功应用案例（以客户证明文件为准）的；</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">5.1.3曾经成功开发水利信息管理系统(软件开发费合同金额50万以上)、具有GIS开发经验的。</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">5.1.4资质评价</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">工程项目经理及参与项目工程的开发人员具有MIS项目的经验和取得相应认证证书的。</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">5.2技术方案（40%）</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">5.2.1响应招标文件要求的程度；</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">5.2.2软件平台的设计方案；</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">5.2.3 水利业务管理系统设计方案。</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">5.3报价（30%）</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">5.4进度计划（10%）</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">5.4.1实际工期；</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">5.4.2合理的、内容齐全的项目实施进度图表。</font></div></评价标准及要求>
+	</招标项目要求>
+	<合同说明>
+		<合同专用条款><div xmlns="http://www.w3.org/1999/xhtml">1. 交货时间要求</div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">本招标文件所列所有软件系统须在合同生效之日起半年以内全部交货。</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">2. 交货地点要求</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">(1)投标方须按照用户指定地点安装软件，其运送的所有费用由投标方承担。</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">(2)交货地点：北京信息科技大学。</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">3．付款方式：</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">①硬件设备、系统软件平台到货安装验收合格后一周内付款。</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">②预付款：项目合同签定之后10个工作日内付开发服务费（合同金额减去①项金</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">额）的25%；</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">③项目竣工验收后10个工作日内付开发服务费的65%；</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">④项目合同保修期满后10个工作日内付余款。</font></div></合同专用条款>
+		<合同通用条款><div xmlns="http://www.w3.org/1999/xhtml">1. 交货时间要求</div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">本招标文件所列所有软件系统须在合同生效之日起半年以内全部交货。</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">2. 交货地点要求</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">(1)投标方须按照用户指定地点安装软件，其运送的所有费用由投标方承担。</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">(2)交货地点：北京信息科技大学。</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">3．付款方式：</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">①硬件设备、系统软件平台到货安装验收合格后一周内付款。</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">②预付款：项目合同签定之后10个工作日内付开发服务费（合同金额减去①项金</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">额）的25%；</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">③项目竣工验收后10个工作日内付开发服务费的65%；</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">④项目合同保修期满后10个工作日内付余款。</font></div></合同通用条款>
+		<合同格式>XXX市政府采购软件合同合同编号：供方：需方：本合同根据XXX市信息工程招投标中心招标编号IT3104066招标文件和该项招标的中标通知书于 年 月 日由供方与需方签订。并经供需双方协商同意下列条款：1. 总则1.1. 本合同供需双方必须遵守国家颁布的合同法，并各自履行应负的全部责任。1.2. 下列文件均为本合同不可分割部分：1.2.1. 中标通知书；1.2.2. XXX市信息工程招投标中心招标编号IT3104066招标文件；1.2.3. 供方中标的投标书。1.2.4. 以上文件与合同附件具有同等法律效力，若以上文件与本合同有差异的，以本合同内容为准。1.3. 供方保证全部按照合同条款的规定和交货期向需方提供软件和服务。1.4. 需方保证按照合同条款规定的时间和方式付给供方到期应付的货款。2. 项目名称和描述：3. 合同总额和构成：合同总额由二部分构成，第一部分是设备与软件采购费：包括服务器等硬件设备和系统软件平台。第二部分是服务费，即合同总额中第一部分以外的其余部分，包括系统开发、数据处理、技术服务等等。4. 付款方式和时间：4.1对于第一部分即设备软件采购费：硬件设备、系统软件平台到货安装验收合格后一周内付款。4.2 对于第二部分即服务费：①预付款：项目合同签定之后10个工作日内需方付出该部分总额的25%；②进度款：项目如按计划正常实施，共支付3次，每次付出该部分总金额的15%；③完成款：项目竣工验收后10个工作日内付出该部分总金额的20%；④余款：项目合同保修期满后10个工作日内付出余款，即该部分总金额的10%；5. 需方责任：5.1. 双方签订合同后十个工作日内，需方向供方支付预付款，并按合同规定分类分期地付款。5.2. 需方（包括个部门）在工程实施的各环节上应积极向供方提供相应的人力和环境配合，以保证乙方在软件的应用调研、开发测试、安装调试、培训辅导、双单轨运行、推广和验收等阶段顺利地进行软件施工。6. 供方责任：6.1. 供方在收到需方的预付款后三个工作日内开始软件项目工程的实施。6.2. 供方按照项目"实施进度计划"完成各个阶段的实施任务，以及按"项目实施和售后服务技术人员情况表"在项目实施的各个阶段中投入足够的人力以保证项目实施的连续性。6.3. 供方按照"系统设计方案和软件功能描述、信息系统功能组成及描述"中所列的内容分别完成软件各功能模块的制作。6.4. 供方按"软件（按照模块）详细报价清单"和"系统软件详细报价清单"所列内容向用户提供系统软件部件，并保证上述部件质量能满足本招标项目对应用软件的需求。6.5. 在软件系统正常运行后，供方提供相应源代码及相应技术文档。(进一步明确)6.6. 供方按照"系统服务范围和内容"分别提供本项目的系统服务。6.7. 供方按照"培训计划"提供相关的培训服务。6.8. 供方在合同规定的维护期满后，有义务向需方提供有偿的后续技术支持。7. 验收标准：7.1. 供、需双方按照中标的投标文件中"验收标准"或双方认可的标准分别对平台软件、OA软件功能、移交的程序和文件以及相关的系统服务进行验收。8. 其他责任：8.1. 供方在本合同中所提供给需方的软件源代码及其技术文档只能在需方的内部使用，需方不得将此次软件中的任何功能模块和技术资料提供给第三方。8.2. 本次软件系统要求符合的要求，供方有责任解决达标工作中力所能及的技术问题，需方有义务作好相应的协调工作，经供、需双方一致认定的重大难题，共同提请有关政府部门给予解决。9. 本合同按中华人民共和国知识产权保护条例、计算机软件保护条例、经济合同法以及适用于本合同的有关法律条例执行。10. 因本合同引起的争议，供需双方应首先通过友好协商解决。如果在一方向另一方发出要求协商的书面通知后六十天内仍不能解决争议，则应依司法程序解决。11. 本合同一式四份，中标商、XXX市水利局、XXX市政府采购中心、XXX市信息工程招投标中心各执一份。12. 本合同自供需双方签字盖章之日起生效。供方： 需方：地址： 地址：法定代表人： 法定代表人：委托代理人： 委托代理人：电话： 电话：电传： 电传：邮政编码： 邮政编码：开户银行： 开户银行：</合同格式>
+	</合同说明>
+	<附件>
+		<投标书格式><div xmlns="http://www.w3.org/1999/xhtml">1. 投标文件中信息处理、实体关系图（ER图）、数据流程图、层次框架图、程序流程图、系统流</div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">程图、程序网络图和系统资源图的文件编制符号及约定按照国家标准GB1526-89或ISO9001标准。</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">2. 项目开发计划</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">2.1. 工作内容</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">简要地说明在本项目的开发中须进行的各项主要工作。</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">2.2. 主要参加人员</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">扼要说明参加本项目开发工作的主要人员的情况，包括他们的技术水平。</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">2.3. 产品</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">列出需移交给用户的程序的名称、所用的编程语言及存储程序的媒体形式，并通过引</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">用有关文件，逐项说明其功能和能力。</font></div></投标书格式>
+		<分项报价表格式><div xmlns="http://www.w3.org/1999/xhtml">资料购买500万元 专利申请费100万元 雇员工资200万元 雇员培训费150万元 差旅费50万元</div></分项报价表格式>
+		<法定代表人授权书格式><div xmlns="http://www.w3.org/1999/xhtml">投标人在购买招标文件的时候应当把以上文件的原件交江门市新会区政府采购中心审验。该中心在审</div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">验后收取前四项的复印件和第（5）项（法定代表人证明书和授权委托书）。所有复印件均应当加盖投标</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">单位公章。</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">地 址：北京信息科技大学</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">邮 编：529100</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">电 话：0750-6628299</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">传 真：0750-6628500</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">联 系 人：王纬业</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">投标保证金账号：</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">开户银行：中国银行新会支行</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">户 名：北京市朝阳区政府采购中心</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">帐 号：8914-08248308091001</font></div></法定代表人授权书格式>
+		<资质证明文件格式><div xmlns="http://www.w3.org/1999/xhtml">1、 营业执照（复印件）、2、 投标人情况表及企业实力证明材料3、 产品鉴定证书、产品检验、检测证</div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">书（复印件）4、 投标货物近三年市场销售情况5、 主要生产设备一览表6、 近三年涉及的诉讼与仲裁情</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">况7、 联合体联合协议书8、 联合体成员的证明文件（营业执照、资质证书、安全生产许可证复印件）</font></div></资质证明文件格式>
+		<保证金保函格式><div xmlns="http://www.w3.org/1999/xhtml">履约保证金保函格式（中标后开具）致：中招国际招标有限公司号合同履约保函本保函作为贵方与（卖方</div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">名称）（以下简称卖方）于   </font><font size="2" face="宋体">年   </font><font size="2" face="宋体">月   </font><font size="2" face="宋体">日就   </font><font size="2" face="宋体">项目（以下简称项目）项下提供（货物</font><font size="2" face="宋体">名称）（以下简称货物）签订的</font><font size="2" face="宋体">（合同号）号合同的履约保函。（出具保函银行名称）（以下</font><font size="2" face="宋体">简称银行）无条件地、不可撤销地具结保证本行、其继承人和受让人无追索地向贵方以（货币名称）支付</font><font size="2" face="宋体">总额不超过（货币数量），即相当于合同价格的 %，并以此约定如下：1.只要贵方确定卖方未能忠实</font><font size="2" face="宋体">地履行所有合同文件的规定和双方此后一致同意的修改、补充和变动，包括更换和/或修补贵方认为有缺</font><font size="2" face="宋体">陷的货物（以下简称违约），无论卖方有任何反对，本行将凭贵方关于卖方违约说明的书面通知，立即按</font><font size="2" face="宋体">贵方提出的累计总额不超过上述金额的款项和按贵方通知规定的方式付给贵方。2.本保函项下的任何支付</font><font size="2" face="宋体">应为免税和净值。对于现有或将来的税收、关税、收费、费用扣减或预提税款，不论这些款项是何种性质</font><font size="2" face="宋体">和由谁征收，都不应从本保函项下的支付中扣除。3.本保函的条款构成本行无条件的、不可撤销的直接责</font><font size="2" face="宋体">任。对即将履行的合同条款的任何变更、贵方在时间上的宽限、或由贵方采取的如果没有本款可能免除本</font><font size="2" face="宋体">行责任的任何其它行为，均不能解除或免除本行在本保函项下的责任。4.本保函在本合同规定的保证期期</font><font size="2" face="宋体">满前完全生效。谨启出具保函银行名称</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体"></font> </div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">签字人姓名和职</font><font size="2" face="宋体">务</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体"></font> </div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">签 字 人 </font><font size="2" face="宋体">签 </font><font size="2" face="宋体">名                                                  </font><font size="2" face="宋体">公   </font><font size="2" face="宋体">章</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体"></font> </div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体"></font> </div></保证金保函格式>
+		<投标人情况表格式><div xmlns="http://www.w3.org/1999/xhtml">投标人情况声明</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">1、名称及概况：</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">（1）       投标人名称：_____<font size="2" face="宋体">无衣组有限公司</font>______________________     </div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">（2）       总部地址：___北京市北四环中路35号______________</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">电传/传真/电话号码：___010-61523456 ______________</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">（3）       成立和/或注册日期：_____<font size="2" face="宋体">2021-9-1</font>__________________</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">（4）       实收资本：_______<font size="2" face="宋体">五千亿</font>________________________</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">（5）       近期资产负债表（到  <font size="2" face="宋体">2021 </font>年  9  月 28 日止）</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">       ①固定资产：_____<font size="2" face="宋体">四亿二千万</font>__________________</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">       ②流动资产：_____<font size="2" face="宋体">八千万</font>_____________________</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">       ③长期负债：_______<font size="2" face="宋体">无</font>_______________________</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">       ④流动负债：_______<font size="2" face="宋体">无</font>_______________________</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">       ⑤净值：_____<font size="2" face="宋体">五千亿</font>_________________________</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">（6）        主要负责人姓名：（可选填）_______<font size="2" face="宋体">王纬业</font>_______</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml"><br/>2、本投标人生产投标货物的经验（包括年限、项目业主、额定能力、商业运营的起始日期等）：</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">3、近三年本公司主要国内、外主要客户的名称地址，项目名称：</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">（1）         出口销售</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">     （名称和地址）__四星  韩国_ （项目名称）__手机订货系统__</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">     （名称和地址）__<font size="2" face="宋体">谷唱  </font><font size="2" face="宋体">美国</font>_ （项目名称）__<font size="2" face="宋体">人脸识别系统</font>__</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">（2）         国内销售</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">     （名称和地址）_蒙猪有限责任公司   中国__ （项目名称）__养猪户管理系统__ </div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">     （名称和地址）__<font size="2" face="宋体">嘟嘟打车</font>_ （项目名称）__<font size="2" face="宋体">打车系统</font>____</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">5、近三年的年营业额</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">    年   份      国     内      出    口      总     额</div>
+<div xmlns="http://www.w3.org/1999/xhtml">
+<table tabIndex="-1" class="msoUcTable" style="WORD-WRAP: break-word; BORDER-TOP: medium none; BORDER-RIGHT: medium none; WIDTH: 480px; BORDER-COLLAPSE: collapse; TABLE-LAYOUT: fixed; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none" borderColor="buttontext" border="1">
+<colgroup>
+<col style="WIDTH: 120px"/>
+<col style="WIDTH: 120px"/>
+<col style="WIDTH: 120px"/>
+<col style="WIDTH: 120px"/></colgroup>
+<tbody vAlign="top">
+<tr>
+<td style="BORDER-TOP: #000000 1pt; BORDER-RIGHT: #000000 1pt; BORDER-BOTTOM: #000000 1pt; BORDER-LEFT: #000000 1pt">
+<div><font size="2" face="宋体">   2017</font></div></td>
+<td style="BORDER-TOP: #000000 1pt; BORDER-RIGHT: #000000 1pt; BORDER-BOTTOM: #000000 1pt; BORDER-LEFT: #000000 1pt">
+<div><font size="2" face="宋体">五十亿</font></div></td>
+<td style="BORDER-TOP: #000000 1pt; BORDER-RIGHT: #000000 1pt; BORDER-BOTTOM: #000000 1pt; BORDER-LEFT: #000000 1pt">
+<div><font size="2" face="宋体">五十亿</font></div></td>
+<td style="BORDER-TOP: #000000 1pt; BORDER-RIGHT: #000000 1pt; BORDER-BOTTOM: #000000 1pt; BORDER-LEFT: #000000 1pt">
+<div><font size="2" face="宋体">一百亿</font></div></td></tr></tbody></table></div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">
+<table tabIndex="-1" class="msoUcTable" style="WORD-WRAP: break-word; BORDER-TOP: medium none; BORDER-RIGHT: medium none; WIDTH: 480px; BORDER-COLLAPSE: collapse; TABLE-LAYOUT: fixed; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none" borderColor="buttontext" border="1">
+<colgroup>
+<col style="WIDTH: 120px"/>
+<col style="WIDTH: 120px"/>
+<col style="WIDTH: 120px"/>
+<col style="WIDTH: 120px"/></colgroup>
+<tbody vAlign="top">
+<tr style="MIN-HEIGHT: 21px">
+<td style="BORDER-TOP: #000000 1pt; BORDER-RIGHT: #000000 1pt; BORDER-BOTTOM: #000000 1pt; BORDER-LEFT: #000000 1pt">
+<div><font size="2" face="宋体">   2018</font></div></td>
+<td style="BORDER-TOP: #000000 1pt; BORDER-RIGHT: #000000 1pt; BORDER-BOTTOM: #000000 1pt; BORDER-LEFT: #000000 1pt">
+<div><font size="2" face="宋体">一百亿</font></div></td>
+<td style="BORDER-TOP: #000000 1pt; BORDER-RIGHT: #000000 1pt; BORDER-BOTTOM: #000000 1pt; BORDER-LEFT: #000000 1pt">
+<div><font size="2" face="宋体">两百亿</font></div></td>
+<td style="BORDER-TOP: #000000 1pt; BORDER-RIGHT: #000000 1pt; BORDER-BOTTOM: #000000 1pt; BORDER-LEFT: #000000 1pt">
+<div><font size="2" face="宋体">三百亿</font></div></td></tr></tbody></table></div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">
+<table tabIndex="-1" class="msoUcTable" style="WORD-WRAP: break-word; BORDER-TOP: medium none; BORDER-RIGHT: medium none; WIDTH: 480px; BORDER-COLLAPSE: collapse; TABLE-LAYOUT: fixed; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none" borderColor="buttontext" border="1">
+<colgroup>
+<col style="WIDTH: 120px"/>
+<col style="WIDTH: 120px"/>
+<col style="WIDTH: 120px"/>
+<col style="WIDTH: 120px"/></colgroup>
+<tbody vAlign="top">
+<tr>
+<td style="BORDER-TOP: #000000 1pt; BORDER-RIGHT: #000000 1pt; BORDER-BOTTOM: #000000 1pt; BORDER-LEFT: #000000 1pt">
+<div><font size="2" face="宋体">   2019</font></div></td>
+<td style="BORDER-TOP: #000000 1pt; BORDER-RIGHT: #000000 1pt; BORDER-BOTTOM: #000000 1pt; BORDER-LEFT: #000000 1pt">
+<div><font size="2" face="宋体">一百五十亿</font></div></td>
+<td style="BORDER-TOP: #000000 1pt; BORDER-RIGHT: #000000 1pt; BORDER-BOTTOM: #000000 1pt; BORDER-LEFT: #000000 1pt">
+<div><font size="2" face="宋体">两百亿</font></div></td>
+<td style="BORDER-TOP: #000000 1pt; BORDER-RIGHT: #000000 1pt; BORDER-BOTTOM: #000000 1pt; BORDER-LEFT: #000000 1pt">
+<div><font size="2" face="宋体">三百五十亿</font></div></td></tr></tbody></table></div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">  </div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">兹证明上述声明是真实、正确的、并提供了全部能提供的资料和数据，我们同意遵照贵方要求出示有关证明文件。</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">
+<div><font size="2" face="宋体">投标人名称（公章）：</font>无衣组<font size="2" face="宋体">有限公司</font></div>
+<div><font size="2" face="宋体">法人授权代表（签字）：张三</font></div>
+<div><font size="2" face="宋体"></font> </div>
+<div><font size="2" face="宋体">日期： 2021-09-28</font></div></div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div></投标人情况表格式>
+		<投标人财务状况表格式><div xmlns="http://www.w3.org/1999/xhtml">1、投标人最近一个季度依法纳税的完税凭证，无纳税记录的，应提供由投标人所在地主管国税、地税部</div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">门出具的《依法纳税或依法免税的证明》，《依法纳税或依法免税证明》原件一年内保持有效。</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">2、投标人最近一个季度依法缴纳社保费的凭证，无缴费记录的，应提供由投标人所在社保部门出具的</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">《依法缴纳或依法免缴社保费证明》，《依法缴纳或依法免缴社保费证明》原件一年内保持有效。</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体"></font> </div></投标人财务状况表格式>
+		<投标人专业技术人员一览表格式><div xmlns="http://www.w3.org/1999/xhtml">
+<table tabIndex="-1" class="msoUcTable" style="WORD-WRAP: break-word; BORDER-TOP: medium none; BORDER-RIGHT: medium none; WIDTH: 798px; BORDER-COLLAPSE: collapse; TABLE-LAYOUT: fixed; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none" borderColor="buttontext" border="1">
+<colgroup>
+<col style="WIDTH: 61px"/>
+<col style="WIDTH: 72px"/>
+<col style="WIDTH: 51px"/>
+<col style="WIDTH: 121px"/>
+<col style="WIDTH: 111px"/>
+<col style="WIDTH: 75px"/>
+<col style="WIDTH: 75px"/>
+<col style="WIDTH: 91px"/>
+<col style="WIDTH: 66px"/>
+<col style="WIDTH: 75px"/></colgroup>
+<tbody vAlign="top">
+<tr style="MIN-HEIGHT: 8px">
+<td>
+<div><font size="2" face="宋体">序号</font></div></td>
+<td style="BORDER-BOTTOM-COLOR: ">
+<div><font size="2" face="宋体">姓名</font></div></td>
+<td>
+<div><font size="2" face="宋体">性别</font></div></td>
+<td>
+<div><font size="2" face="宋体">现任职务</font></div></td>
+<td>
+<div><font size="2" face="宋体">持何种资格证件</font></div></td>
+<td>
+<div><font size="2" face="宋体">发证时间</font></div></td>
+<td>
+<div><font size="2" face="宋体">技术等级</font></div></td>
+<td>
+<div><font size="2" face="宋体">本专业工作总年限</font></div></td>
+<td>
+<div><font size="2" face="宋体">外语能力</font></div></td>
+<td>
+<div><font size="2" face="宋体">备注</font></div></td></tr>
+<tr style="MIN-HEIGHT: 35px">
+<td style="BORDER-RIGHT-COLOR: ">
+<div><font size="2" face="宋体">1</font></div></td>
+<td>
+<div><font size="2" face="宋体">王纬业</font></div></td>
+<td style="BORDER-LEFT-COLOR: ">
+<div><font size="2" face="宋体">男</font></div></td>
+<td>
+<div><font size="2" face="宋体">项目经理</font></div></td>
+<td>
+<div><font size="2" face="宋体">高级工程师</font></div></td>
+<td>
+<div><font size="2" face="宋体">2021</font></div></td>
+<td>
+<div><font size="2" face="宋体">3</font></div></td>
+<td>
+<div><font size="2" face="宋体">5</font></div></td>
+<td>
+<div><font size="2" face="宋体">6级</font></div></td>
+<td>
+<div><font size="2" face="宋体"></font> </div></td></tr>
+<tr style="MIN-HEIGHT: 63px">
+<td>
+<div><font size="2" face="宋体">2</font></div></td>
+<td style="BORDER-TOP-COLOR: ; BORDER-BOTTOM-COLOR: ">
+<div><font size="2" face="宋体">胡志奎</font></div></td>
+<td>
+<div><font size="2" face="宋体">男</font></div></td>
+<td>
+<div><font size="2" face="宋体">开发组组长</font></div></td>
+<td>
+<div><font size="2" face="宋体">高级工程师</font></div></td>
+<td>
+<div><font size="2" face="宋体">2021</font></div></td>
+<td>
+<div><font size="2" face="宋体">3</font></div></td>
+<td>
+<div><font size="2" face="宋体">5</font></div></td>
+<td>
+<div><font size="2" face="宋体">6级</font></div></td>
+<td>
+<div><font size="2" face="宋体"></font> </div></td></tr>
+<tr style="MIN-HEIGHT: 35px">
+<td style="BORDER-RIGHT-COLOR: ">
+<div><font size="2" face="宋体">3</font></div></td>
+<td>
+<div><font size="2" face="宋体">李世龙</font></div></td>
+<td style="BORDER-LEFT-COLOR: ">
+<div><font size="2" face="宋体">男</font></div></td>
+<td>
+<div><font size="2" face="宋体">测试组组长</font></div></td>
+<td>
+<div><font size="2" face="宋体">高级工程师</font></div></td>
+<td>
+<div><font size="2" face="宋体">2021</font></div></td>
+<td>
+<div><font size="2" face="宋体">3</font></div></td>
+<td>
+<div><font size="2" face="宋体">5</font></div></td>
+<td>
+<div><font size="2" face="宋体">6级</font></div></td>
+<td>
+<div><font size="2" face="宋体"></font> </div></td></tr>
+<tr style="MIN-HEIGHT: 64px">
+<td>
+<div><font size="2" face="宋体">4</font></div></td>
+<td style="BORDER-TOP-COLOR: ">
+<div><font size="2" face="宋体">刘洋</font></div></td>
+<td>
+<div><font size="2" face="宋体">男</font></div></td>
+<td>
+<div><font size="2" face="宋体">用户组组长</font></div></td>
+<td>
+<div><font size="2" face="宋体">高级工程师</font></div></td>
+<td>
+<div><font size="2" face="宋体">2021</font></div></td>
+<td>
+<div><font size="2" face="宋体">3</font></div></td>
+<td>
+<div><font size="2" face="宋体">5</font></div></td>
+<td>
+<div><font size="2" face="宋体">6级</font></div></td>
+<td>
+<div><font size="2" face="宋体"></font> </div></td></tr>
+<tr style="MIN-HEIGHT: 35px">
+<td>
+<div><font size="2" face="宋体">5</font></div></td>
+<td>
+<div><font size="2" face="宋体">陈明翰</font></div></td>
+<td>
+<div><font size="2" face="宋体">男</font></div></td>
+<td>
+<div><font size="2" face="宋体">程序员</font></div></td>
+<td>
+<div><font size="2" face="宋体">高级工程师</font></div></td>
+<td>
+<div><font size="2" face="宋体">2021</font></div></td>
+<td>
+<div><font size="2" face="宋体">3</font></div></td>
+<td>
+<div><font size="2" face="宋体">5</font></div></td>
+<td>
+<div><font size="2" face="宋体">6级</font></div></td>
+<td>
+<div><font size="2" face="宋体"></font> </div></td></tr>
+<tr style="MIN-HEIGHT: 27px">
+<td>
+<div><font size="2" face="宋体">6</font></div></td>
+<td>
+<div><font size="2" face="宋体">李奇峰</font></div></td>
+<td>
+<div><font size="2" face="宋体">男</font></div></td>
+<td>
+<div><font size="2" face="宋体">程序员</font></div></td>
+<td>
+<div><font size="2" face="宋体">高级工程师</font></div></td>
+<td>
+<div><font size="2" face="宋体">2021</font></div></td>
+<td>
+<div><font size="2" face="宋体">3</font></div></td>
+<td>
+<div><font size="2" face="宋体">5</font></div></td>
+<td>
+<div><font size="2" face="宋体">6级</font></div></td>
+<td>
+<div><font size="2" face="宋体"></font> </div></td></tr>
+<tr style="MIN-HEIGHT: 49px">
+<td>
+<div><font size="2" face="宋体">7</font></div></td>
+<td>
+<div><font size="2" face="宋体">王夏</font></div></td>
+<td>
+<div><font size="2" face="宋体">女</font></div></td>
+<td>
+<div><font size="2" face="宋体">需求评审、验收测试</font></div></td>
+<td>
+<div><font size="2" face="宋体">高级工程师</font></div></td>
+<td>
+<div><font size="2" face="宋体">2021</font></div></td>
+<td>
+<div><font size="2" face="宋体">3</font></div></td>
+<td>
+<div><font size="2" face="宋体">5</font></div></td>
+<td>
+<div><font size="2" face="宋体">6级</font></div></td>
+<td>
+<div><font size="2" face="宋体"></font> </div></td></tr>
+<tr style="MIN-HEIGHT: 27px">
+<td style="BORDER-TOP-COLOR: ">
+<div><font size="2" face="宋体">8</font></div></td>
+<td style="BORDER-TOP-COLOR: ">
+<div><font size="2" face="宋体">常远</font></div></td>
+<td style="BORDER-TOP-COLOR: ">
+<div><font size="2" face="宋体">男</font></div></td>
+<td style="BORDER-TOP-COLOR: ">
+<div><font size="2" face="宋体">测试员</font></div></td>
+<td style="BORDER-TOP-COLOR: ">
+<div><font size="2" face="宋体">高级工程师</font></div></td>
+<td style="BORDER-TOP-COLOR: ">
+<div><font size="2" face="宋体">2021</font></div></td>
+<td style="BORDER-TOP-COLOR: ">
+<div><font size="2" face="宋体">3</font></div></td>
+<td style="BORDER-TOP-COLOR: ">
+<div><font size="2" face="宋体">5</font></div></td>
+<td style="BORDER-TOP-COLOR: ">
+<div><font size="2" face="宋体">6级</font></div></td>
+<td style="BORDER-TOP-COLOR: ">
+<div><font size="2" face="宋体"></font> </div></td></tr>
+<tr style="MIN-HEIGHT: 30px">
+<td style="BORDER-TOP-COLOR: ">
+<div><font size="2" face="宋体">9</font></div></td>
+<td style="BORDER-TOP-COLOR: ">
+<div><font size="2" face="宋体">吴雨森</font></div></td>
+<td style="BORDER-TOP-COLOR: ">
+<div><font size="2" face="宋体">男</font></div></td>
+<td style="BORDER-TOP-COLOR: ">
+<div><font size="2" face="宋体">测试员</font></div></td>
+<td style="BORDER-TOP-COLOR: ">
+<div><font size="2" face="宋体">高级工程师</font></div></td>
+<td style="BORDER-TOP-COLOR: ">
+<div><font size="2" face="宋体">2021</font></div></td>
+<td style="BORDER-TOP-COLOR: ">
+<div><font size="2" face="宋体">3</font></div></td>
+<td style="BORDER-TOP-COLOR: ">
+<div><font size="2" face="宋体">5</font></div></td>
+<td style="BORDER-TOP-COLOR: ">
+<div><font size="2" face="宋体">6级</font></div></td>
+<td style="BORDER-TOP-COLOR: ">
+<div><font size="2" face="宋体"></font> </div></td></tr></tbody></table></div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">从业人员及技术资格须附任职资格证书或技术工人等级证书的复印件，以及获得证书的工作人员为本单位<font size="2" face="宋体">员工的证明材料</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">投标人名称(盖章)：无衣组有限公司</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">授权代表签字盖章：北京银行</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体"></font> </div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">日</font><font size="2" face="宋体">期： 2021 年 09 月 28 日</font></div></投标人专业技术人员一览表格式>
+		<其他></其他>
+	</附件>
+</招标书>
